@@ -1,4 +1,4 @@
-## 18F Guides Template
+## CDS Guides Template
 
 This is a skeleton repo containing the
 [CFPB/DOCter](https://github.com/CFPB/DOCter)-based
